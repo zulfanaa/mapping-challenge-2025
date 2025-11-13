@@ -11,7 +11,7 @@ A map of noise levels around a university campus area, visualizing the intensity
 
 ### Day 15 – Fire: Mount Merapi
 **The Volcanic Hazard Zones**  
-A map of Mount Merapi, focusing on the Sleman side, showing volcanic hazard zones. The high-risk areas (Zone 1) stretch like tentacles along rivers, while Zones 2 and 3 form the rounded bell. Hazard data is from **@BNPB Indonesia**. The jellyfish shape gives a visual sense of scale, enhanced with a fun comparison to 50 of the world’s largest jellyfish.
+A map of Mount Merapi, focusing on the Sleman side, showing volcanic hazard zones. The high-risk areas (Zone 1) stretch like tentacles along rivers, while Zones 2 and 3 form the rounded bell. Hazard data is from **BNPB Indonesia**. The jellyfish shape gives a visual sense of scale, enhanced with a fun comparison to 50 of the world’s largest jellyfish.
 
 ## License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
